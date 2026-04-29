@@ -11,6 +11,11 @@ Custom themes for the [WindTerm](https://github.com/kingToolbox/WindTerm) termin
 | Theme | Preview |
 |-------|---------|
 | [Dracula](./windterm/dracula/) | ![Screenshot of Dracula](./assets/screenshots/windterm-dracula.png) |
+| [Gruvbox Dark](./windterm/gruvbox-dark/) | ![Screenshot of Gruvbox Dark](./assets/screenshots/windterm-gruvbox-dark.png) |
+| [Monokai](./windterm/monokai/) | ![Screenshot of Monokai](./assets/screenshots/windterm-monokai.png) |
+| [Nord](./windterm/nord/) | ![Screenshot of Nord](./assets/screenshots/windterm-nord.png) |
+| [One Dark](./windterm/one-dark/) | ![Screenshot of One Dark](./assets/screenshots/windterm-one-dark.png) |
+| [Solarized Dark](./windterm/solarized-dark/) | ![Screenshot of Solarized Dark](./assets/screenshots/windterm-solarized-dark.png) |
 | [True Godot](./windterm/true-godot/) | ![Screenshot of True Godot](./assets/screenshots/windterm-true-godot.png) |
 | [VS Code Dark](./windterm/vscode-dark/) | ![Screenshot of VS Code Dark](./assets/screenshots/windterm-vscode-dark.png) |
 
