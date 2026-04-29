@@ -13,7 +13,7 @@ Thumbs.db
 *.swp
 *.swo
 *~
-
+*.py
 # Logs
 *.log
 
