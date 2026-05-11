@@ -29,6 +29,7 @@ A curated collection of custom visual themes for the [WindTerm](https://github.c
 | [Solarized Dark](./solarized-dark/) | ![Screenshot of Solarized Dark](../assets/screenshots/windterm-solarized-dark.png) | `gui.theme`, `icon.theme`, `scheme.theme` |
 | [True Godot](./true-godot/) | ![Screenshot of True Godot](../assets/screenshots/windterm-true-godot.png) | `gui.theme`, `icon.theme`, `scheme.theme` |
 | [VS Code Dark](./vscode-dark/) | ![Screenshot of VS Code Dark](../assets/screenshots/windterm-vscode-dark.png) | `gui.theme`, `icon.theme`, `scheme.theme` |
+| [Everforest Dark](./everforest-dark/) | ![Screenshot of Everforest Dark](../assets/screenshots/windterm-everforest-dark.png) | `gui.theme`, `icon.theme`,`scheme.theme` |
 
 ---
 
