@@ -18,7 +18,7 @@ Custom themes for the [WindTerm](https://github.com/kingToolbox/WindTerm) termin
 | [Solarized Dark](./windterm/solarized-dark/) | ![Screenshot of Solarized Dark](./assets/screenshots/windterm-solarized-dark.png) |
 | [True Godot](./windterm/true-godot/) | ![Screenshot of True Godot](./assets/screenshots/windterm-true-godot.png) |
 | [VS Code Dark](./windterm/vscode-dark/) | ![Screenshot of VS Code Dark](./assets/screenshots/windterm-vscode-dark.png) |
-| [Everforest Dark](./everforest-dark/) | ![Screenshot of Everforest Dark](../assets/screenshots/windterm-everforest-dark.png) |
+| [Everforest Dark](./everforest-dark/) | ![Screenshot of Everforest Dark](./assets/screenshots/windterm-everforest-dark.png) |
 
 ---
 
